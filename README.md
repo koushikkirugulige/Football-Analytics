@@ -8,3 +8,5 @@ pass collection of which were classification of through ball and which are assis
 A WIP module which calculates the probability of a shot being a goal.
 ## shot_mapping.ipynb
 Mapping of where a shot had been taken from 
+## 11tegen11 position map.ipynb
+Average touch position of 11 starting players 

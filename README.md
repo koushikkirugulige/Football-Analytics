@@ -10,3 +10,5 @@ A WIP module which calculates the probability of a shot being a goal.
 Mapping of where a shot had been taken from 
 ## 11tegen11 position map.ipynb
 Average touch position of 11 starting players 
+## Dribbles by player and season.ipynb
+plots number of dribbles by a player in certain part of pitch and above certain threshold time and length(dribble)

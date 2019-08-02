@@ -13,4 +13,4 @@ Average touch position of 11 starting players
 ## Dribbles by player and season.ipynb
 plots number of dribbles by a player in certain part of pitch and above certain threshold time and length(dribble)
 ## Squad age Profile.ipynb
- a Scatter plot which visualises players' Age vs minutes played data from [soccerway](https://us.soccerway.com) inspired from [petermckeever](petermckeever.com/2019/04/creating-squad-age-profiles/)
+ a Scatter plot which visualises players' Age vs minutes played data from [soccerway](https://us.soccerway.com) inspired from [petermckeever's](petermckeever.com/2019/04/creating-squad-age-profiles/) work

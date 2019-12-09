@@ -17,4 +17,4 @@ plots number of dribbles by a player in certain part of pitch and above certain 
 ## 11tegen11gif.ipynb
 A interactive gif passmap is created for a frequency of every 5 minutes across both half
 ## MovingAvg.ipynb
-A Ipynb which plots moving 5 average and compares a bunch of metric from csv taken from [fbref](www.fbref.com) inspired from [statsbomb](www.statsbomb.com) and [Jose Perez](https://twitter.com/jcperez_/status/1203876153632677888) tweet
+A Ipynb which plots moving 5 average and compares a bunch of metric from csv taken from [fbref](http://fbref.com/) inspired from [statsbomb](https://statsbomb.com/) and [Jose Perez](https://twitter.com/jcperez_/status/1203876153632677888) tweet

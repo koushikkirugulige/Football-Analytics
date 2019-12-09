@@ -16,3 +16,5 @@ plots number of dribbles by a player in certain part of pitch and above certain 
  a Scatter plot which visualises players' Age vs minutes played data from [soccerway](https://us.soccerway.com) inspired from [petermckeever's](petermckeever.com/2019/04/creating-squad-age-profiles/) work
 ## 11tegen11gif.ipynb
 A interactive gif passmap is created for a frequency of every 5 minutes across both half
+## MovingAvg.ipynb
+A Ipynb which plots moving 5 average and compares a bunch of metric from csv taken from [fbref](www.fbref.com) inspired from [statsbomb](www.statsbomb.com) and [Jose Perez](https://twitter.com/jcperez_/status/1203876153632677888) tweet

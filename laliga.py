@@ -9,7 +9,7 @@ import datetime
 import logging
 #yesterday gets yesterday's date in MMDDYYYY format and compare if that is a laliga matchday max date and proceed to get the prediction from 538 website
 
-logging.basicConfig(filename="laliga.log",format='%(asctime)s %(message)s',filemode='w')
+logging.basicConfig(filename="laliga.log",format='%(asctime)s %(message)s',filemode='a')
 
 yesterday = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%m/%d/%Y")
 

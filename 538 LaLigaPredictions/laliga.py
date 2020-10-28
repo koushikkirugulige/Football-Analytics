@@ -7,6 +7,7 @@
 import pandas as pd
 import datetime
 import logging
+from ast import literal_eval
 #yesterday gets yesterday's date in MMDDYYYY format and compare if that is a laliga matchday max date and proceed to get the prediction from 538 website
 
 logging.basicConfig(filename="laliga.log",format='%(asctime)s %(message)s',filemode='a')
@@ -88,7 +89,7 @@ else:
 
 main_df = pd.merge(main_df,df,on='team')
 main_df = main_df.rename(columns = {'Win League_x':'Win League','Win League_y':'new column'})
-
+main_df['Win League'] = main_df['Win League'].apply(literal_eval)
 
 
 main_df['Win League'] = main_df.apply(merge_col,axis = 1)

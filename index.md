@@ -1,1 +1,1 @@
-![xG file](https://github.com/koushikkirugulige/Football-Analytics/blob/master/snaps/GAvsxGA.png)
+![xG file](https://raw.githubusercontent.com/koushikkirugulige/Football-Analytics/master/snaps/GAvsxGA.png)

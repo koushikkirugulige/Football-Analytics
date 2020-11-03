@@ -1,5 +1,5 @@
-# Header 1
-  This is a website for the Football Analytics github repo
+# Website for the Football Analytics github repo
+  
 ![xG Model](https://raw.githubusercontent.com/koushikkirugulige/Football-Analytics/master/snaps/website/xG%20Custom%20Model.png)
 ### Custom xG model using statsbomb shot data
 

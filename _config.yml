@@ -1,5 +1,5 @@
 title: Football-Analytics
-description: Football-Analytics is a football analytics GitHub repository.
+description: Football-Analytics is a GitHub repository, contains code which uses statsbomb open data and builds a bunch of vizuvalizations
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

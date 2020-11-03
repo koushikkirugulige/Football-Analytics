@@ -1,5 +1,5 @@
 https://github.com/koushikkirugulige/Football-Analytics/blob/master/snaps/website/xG%20Custom%20Model.png
-Custom xG model trained on Statsbomb Data
+
 
 https://github.com/koushikkirugulige/Football-Analytics/blob/master/snaps/website/11tegen11%20Passmap.png
 11tegen11 Style Pass map

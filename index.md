@@ -4,7 +4,7 @@
 ![xG Model](https://raw.githubusercontent.com/koushikkirugulige/Football-Analytics/master/snaps/website/xG%20Custom%20Model.png)
 
 [Complete PassMap](https://github.com/koushikkirugulige/Football-Analytics/blob/master/Passmap%2011tegen.ipynb)
-![Complete PassMap](https://github.com/koushikkirugulige/Football-Analytics/blob/master/snaps/website/barcelona.png)
+![Complete PassMap](https://github.com/koushikkirugulige/Football-Analytics/blob/master/snaps/website/barcelon%20a.png)
 
 
 [Messi's Goals and Shots in Valverde Era](https://github.com/koushikkirugulige/Football-Analytics/blob/master/BarcaGoalLocByManagers.ipynb)

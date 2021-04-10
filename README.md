@@ -22,3 +22,6 @@ A Ipynb which plots moving 5 average and compares a bunch of metric from csv tak
 Code which clusters a player's passes into 25(configurable) buckets using K-means
 ##BDOviz.ipynb
 Code to visualize the BDO votes recieved by players
+
+## Passmap 11tegen.ipynb
+A passmap viz code mostly from [McKayJohns](https://github.com/mckayjohns/Viz-Templates/blob/master/Pass%20Networks%20Tutorial.ipynb) for statsbomb data and big thanks to [mplsoccer](https://mplsoccer.readthedocs.io/en/latest/index.html)
